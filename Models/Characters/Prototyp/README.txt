@@ -1,0 +1,1 @@
+Hier kommen alle Charaktere rein, die noch in Entwicklung sind. Bei mehreren Datein für einen Charakter bitte Unterordner erstellen!
